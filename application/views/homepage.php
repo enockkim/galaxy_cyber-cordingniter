@@ -1,314 +1,563 @@
+
  <!DOCTYPE html>
 <html class="no-js" lang="eng">
 <head>
-	<title><?php echo strtoupper($system_abbr)?></title>
-	
-	<?php include "includes_top.php"?>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7GNXBPDS3H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-7GNXBPDS3H');
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="Advertising agency">
+  <meta name="description" content="">
+  <meta name="page_type" content="np-template-header-footer-from-plugin">
+  <title>Galaxy Cyber</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+  <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+
+  <!-- <link rel="stylesheet" href="nicepage.css" media="screen"> -->
+  <link href="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/nicepage.css" media="screen" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="Page-2.css" media="screen"> -->
+  <link href="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/Page-2.css" media="screen" rel="stylesheet">
+  <!-- <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script> -->
+  <!-- <script class="u-script" type="text/javascript" src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/jquery-1.9.1.min.js" defer=""></script> -->
+  <!-- <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script> -->
+  <script class="u-script" type="text/javascript" src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/nicepage.js" defer=""></script>
+  <meta name="generator" content="Nicepage 3.9.3, nicepage.com">
+  <link id="u-theme-google-font" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link id="u-page-google-font" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Barlow:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      
+      body {
+        margin: 0;
+        font-family: Arial;
+      }
+      
+      .header {
+        text-align: center;
+        padding: 32px;
+      }
+      
+      .row {
+        display: -ms-flexbox; /* IE10 */
+        display: flex;
+        -ms-flex-wrap: wrap; /* IE10 */
+        flex-wrap: wrap;
+        padding: 0 4px;
+      }
+      
+      /* Create four equal columns that sits next to each other */
+      .column {
+        -ms-flex: 25%; /* IE10 */
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 4px;
+      }
+      
+      .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+        width: 100%;
+      }
+      
+      /* Responsive layout - makes a two column-layout instead of four columns */
+      @media  screen and (max-width: 800px) {
+        .column {
+          -ms-flex: 50%;
+          flex: 50%;
+          max-width: 50%;
+        }
+      }
+      
+      /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+      @media  screen and (max-width: 600px) {
+        .column {
+          -ms-flex: 100%;
+          flex: 100%;
+          max-width: 100%;
+        }
+      }
+      </style>
+ <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html"
+}</script>
+  <meta property="og:title" content="Page 2">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#29b7dd">
+  <link rel="canonical" href="index.html">
+  <meta property="og:url" content="index.html">
+
+  
 </head>
 
-<body>
+<body data-home-page="https://website296449.nicepage.io/Page-2.html?version=100a7736-cb6c-46e4-906d-2484332ae0d0"
+  data-home-page-title="Page 2" class="u-body">
+  <section class="u-align-left u-clearfix u-image u-section-1" id="carousel_3e8e" data-image-width="1980"
+    data-image-height="1350">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-gutter-0 u-layout">
+          <div class="u-layout-row">
+            <div
+              class="u-align-left u-container-style u-layout-cell u-left-cell u-shape-rectangle u-size-27 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
 
-	<div class="preloader">
-		<div class="preloader_image"></div>
-	</div>
-	<div id="canvas">
-		<div id="box_wrapper">
+                <h1 class="u-custom-font u-text u-text-body-alt-color u-text-1" spellcheck="false">Galaxy Cyber</h1>
+                <p class="u-text u-text-body-alt-color u-text-2" spellcheck="false">All you cyber services at one place
+                </p>
+                <a href="#carousel_7a8d"
+                  class="u-active-palette-4-base u-btn u-btn-round u-button-style u-custom-font u-font-raleway u-hover-palette-4-base u-palette-1-base u-radius-50 u-text-body-alt-color u-btn-1">FIND
+                  US</a>
+                  <p class="u-text u-text-body-alt-color u-text-2" spellcheck="false">OR
+                </p>
+                <a onclick="showOrderModal('http://digitalservices.co.ke/order/order_crud/add')"  class="u-active-palette-4-base u-btn u-btn-round u-button-style u-custom-font u-font-raleway u-hover-palette-4-base u-palette-1-base u-radius-50 u-text-body-alt-color u-btn-1">
+						      Order Now
+                </a>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-image u-layout-cell u-right-cell u-size-33 u-image-1"
+              data-image-width="1372" data-image-height="1235">
+              <div class="u-container-layout u-valign-bottom u-container-layout-2"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="u-align-center u-clearfix u-grey-10 u-section-7" id="">
+    <h2 class="u-text u-text-1">Some of our Services</h2>
+    <div class="row resize"> 
+      <div class="column">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo1.png" style="width:100%">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo2.png" style="width:100%">
+      </div>
+      <div class="column">        
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo3.jpg" style="width:100%">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo4.jpg" style="width:100%">
+      </div>
+      <div class="column">        
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo5.png" style="width:100%">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo6.png" style="width:100%">
+      </div>
+      <div class="column">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo7.jpg" style="width:100%">
+        <img src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/images/logo8.png" style="width:100%">
+      </div>
+    </div>
+<!-- 
 
-			<!-- template sections -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Order Services</h5>
+      </div>
+      <div class="modal-body">
+      <form method="post" action="http://digitalservices.co.ke/order/make_order">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" name="name">
+        </div>
+        <div class="form-group">
+            <label for="phoneNumber">Phone Number</label>
+            <input type="text" class="form-control" name="phoneNumber">
+        </div>
+        <div class="form-group">
+            <label for="service">Service</label>
+            <select class="form-control" name="service">
+            <option>KRA</option>
+            <option>NEMA</option>
+            <option>AGPO</option>
+            <option>NEMIS</option>
+            <option>NTSA</option>
+            <option>TSA</option>
+            <option>Invitation Cards</option>
+            <option>Other</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <textarea class="form-control" name="description" rows="3"></textarea>
+        </div>
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+      </form>
+    </div>
+  </div>
+</div> -->
 
-			<section class="page_topline cs two_color section_padding_top_5 section_padding_bottom_5 table_section">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-sm-6 text-center text-sm-left">
-							<p class="divided-content">
-					<span class="medium black">
-						Welcome to <?php echo strtoupper($system_abbr)?>
-					</span>
-					<span class="medium black">
-						<i class="fa fa-phone"></i>
-						 <?php echo $system_phone; ?>
-					</span>
-				</p>
-						</div>
-						<div class="col-sm-6 text-center text-sm-right">
 
-							<!-- <div class="widget widget_search">
-								<form method="get" class="searchform form-inline" action="http://webdesign-finder.com/html/gogreen/">
-									<div class="form-group-wrap">
-										<div class="form-group margin_0">
-											<label class="sr-only" for="topline-search">Search for:</label>
-											<input id="topline-search" type="text" value="" name="search" class="form-control" placeholder="Search Keyword">
-										</div>
-										<button type="submit" class="theme_button">Search</button>
-									</div>
-								</form>
-							</div> -->
-							<!-- <a href="#">Schedule Pickup</a> -->
-							<div class="whitelinks">
-									<a href="<?php echo $link_facebook; ?>" class="social-icon border-icon rounded-icon soc-facebook"></a>
-									<a href="<?php echo $link_twitter; ?>" class="social-icon border-icon rounded-icon soc-twitter"></a>
-									<a href="mailto:<?php echo $system_email; ?>" class="social-icon border-icon rounded-icon soc-google"></a>
-								</div>
+  <section class="u-clearfix u-white u-section-5" id="sec-d1be">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-valign-top u-container-layout-1">
+                <h1 class="u-text u-text-body-color u-text-1" spellcheck="false">All our services are offered with
+                  affordable prices.</h1>
+                <div class="u-border-6 u-border-palette-1-base u-line u-line-horizontal u-line-1"></div>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+              <div class="u-container-layout u-valign-top u-container-layout-2">
+                <p class="u-text u-text-black u-text-2">
+                  Here at Galaxy Cyber we provide our cutomers quality services at affordable prices. Our customers leave happy and satisfied.
+                </p>
+                <!-- <a data-toggle="modal" data-target="#myModal"
+                  class="u-active-palette-4-base u-btn u-btn-round u-button-style u-custom-font u-font-raleway u-hover-palette-4-base u-palette-1-base u-radius-50 u-text-body-alt-color u-btn-1">
+                Order Now</a> -->
+                <a onclick="showOrderModal('http://digitalservices.co.ke/admin/order_crud/add')"  class="u-active-palette-4-base u-btn u-btn-round u-button-style u-custom-font u-font-raleway u-hover-palette-4-base u-palette-1-base u-radius-50 u-text-body-alt-color u-btn-1">
+						      Order Now
+                </a>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+
+  </section>
+  <section class="u-align-center u-clearfix u-palette-2-base u-section-6" id="carousel_7a8d">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+      <h1 class="u-text u-text-1">Get in Touch!<br>
+      </h1>
+      <p class="u-text u-text-2">Come and let us work for you.</p>
+      <div class="u-clearfix u-gutter-30 u-layout-wrap u-layout-wrap-1">
+        <div class="u-gutter-0 u-layout">
+          <div class="u-layout-col">
+            <div class="u-size-60">
+              <div class="u-layout-row">
+                <div
+                  class="u-align-center u-container-style u-layout-cell u-left-cell u-size-20 u-white u-layout-cell-1">
+                  <div class="u-container-layout u-valign-top u-container-layout-1"><span
+                      class="u-border-3 u-border-grey-15 u-icon u-icon-circle u-spacing-20 u-text-grey-40 u-icon-1"><svg
+                        class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style="">
+                        <use xlink:href="#svg-a501"></use>
+                      </svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                        version="1.1" id="svg-a501" x="0px" y="0px" viewBox="0 0 512 512"
+                        style="enable-background:new 0 0 512 512;" xml:space="preserve" class="u-svg-content">
+                        <g>
+                          <g>
+                            <path
+                              d="M256,0C156.748,0,76,80.748,76,180c0,33.534,9.289,66.26,26.869,94.652l142.885,230.257    c2.737,4.411,7.559,7.091,12.745,7.091c0.04,0,0.079,0,0.119,0c5.231-0.041,10.063-2.804,12.75-7.292L410.611,272.22    C427.221,244.428,436,212.539,436,180C436,80.748,355.252,0,256,0z M384.866,256.818L258.272,468.186l-129.905-209.34    C113.734,235.214,105.8,207.95,105.8,180c0-82.71,67.49-150.2,150.2-150.2S406.1,97.29,406.1,180    C406.1,207.121,398.689,233.688,384.866,256.818z">
+                            </path>
+                          </g>
+                        </g>
+                        <g>
+                          <g>
+                            <path
+                              d="M256,90c-49.626,0-90,40.374-90,90c0,49.309,39.717,90,90,90c50.903,0,90-41.233,90-90C346,130.374,305.626,90,256,90z     M256,240.2c-33.257,0-60.2-27.033-60.2-60.2c0-33.084,27.116-60.2,60.2-60.2s60.1,27.116,60.1,60.2    C316.1,212.683,289.784,240.2,256,240.2z">
+                            </path>
+                          </g>
+                        </g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                      </svg></span>
+                    <h5 class="u-text u-text-grey-40 u-text-3">Location:</h5>
+                    <p class="u-text u-text-4">Boito Centre<br>Along Koiwa road
+                    </p>
+                  </div>
+                </div>
+                <div class="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
+                  <div class="u-container-layout u-valign-top u-container-layout-2"><span
+                      class="u-border-3 u-border-grey-15 u-icon u-icon-circle u-spacing-20 u-text-grey-40 u-icon-2"><svg
+                        class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 479.058 479.058" style="">
+                        <use xlink:href="#svg-1497"></use>
+                      </svg><svg xmlns="http://www.w3.org/2000/svg" id="svg-1497"
+                        enable-background="new 0 0 479.058 479.058" viewBox="0 0 479.058 479.058" class="u-svg-content">
+                        <path
+                          d="m434.146 59.882h-389.234c-24.766 0-44.912 20.146-44.912 44.912v269.47c0 24.766 20.146 44.912 44.912 44.912h389.234c24.766 0 44.912-20.146 44.912-44.912v-269.47c0-24.766-20.146-44.912-44.912-44.912zm0 29.941c2.034 0 3.969.422 5.738 1.159l-200.355 173.649-200.356-173.649c1.769-.736 3.704-1.159 5.738-1.159zm0 299.411h-389.234c-8.26 0-14.971-6.71-14.971-14.971v-251.648l199.778 173.141c2.822 2.441 6.316 3.655 9.81 3.655s6.988-1.213 9.81-3.655l199.778-173.141v251.649c-.001 8.26-6.711 14.97-14.971 14.97z">
+                        </path>
+                      </svg></span>
+                    <h5 class="u-align-center u-text u-text-grey-40 u-text-5">Email:</h5>
+                    <a href="#"
+                      class="u-border-active-none u-border-hover-none u-btn u-btn-rectangle u-button-style u-none u-text-body-color u-text-hover-palette-2-base u-btn-1">shadbye@gmail.com</a>
+                   </div>
+                </div>
+                <div
+                  class="u-align-center u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
+                  <div class="u-container-layout u-valign-top u-container-layout-3"><span
+                      class="u-border-3 u-border-grey-15 u-icon u-icon-circle u-spacing-20 u-text-grey-40 u-icon-3"><svg
+                        class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 384 384" style="">
+                        <use xlink:href="#svg-1a9d"></use>
+                      </svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                        version="1.1" id="svg-1a9d" x="0px" y="0px" viewBox="0 0 384 384"
+                        style="enable-background:new 0 0 384 384;" xml:space="preserve" class="u-svg-content">
+                        <g>
+                          <g>
+                            <path
+                              d="M353.188,252.052c-23.51,0-46.594-3.677-68.469-10.906c-10.906-3.719-23.323-0.833-30.438,6.417l-43.177,32.594    c-50.073-26.729-80.917-57.563-107.281-107.26l31.635-42.052c8.219-8.208,11.167-20.198,7.635-31.448    c-7.26-21.99-10.948-45.063-10.948-68.583C132.146,13.823,118.323,0,101.333,0H30.812C13.823,0,0,13.823,0,30.812    C0,225.563,158.438,384,353.188,384c16.99,0,30.813-13.823,30.813-30.813v-70.323C384,265.875,370.177,252.052,353.188,252.052z     M362.667,353.188c0,5.229-4.25,9.479-9.479,9.479c-182.99,0-331.854-148.865-331.854-331.854c0-5.229,4.25-9.479,9.479-9.479    h70.521c5.229,0,9.479,4.25,9.479,9.479c0,25.802,4.052,51.125,11.979,75.115c1.104,3.542,0.208,7.208-3.375,10.938L82.75,165.427    c-2.458,3.26-2.844,7.625-1,11.26c29.927,58.823,66.292,95.188,125.531,125.542c3.604,1.885,8.021,1.49,11.292-0.979    l49.677-37.635c2.51-2.51,6.271-3.406,9.667-2.25c24.156,7.979,49.479,12.021,75.271,12.021c5.229,0,9.479,4.25,9.479,9.479    V353.188z">
+                            </path>
+                          </g>
+                        </g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                        <g></g>
+                      </svg></span>
+                    <h5 class="u-text u-text-grey-40 u-text-6">Call | Text | WhatsApp</h5>
+                    <p class="u-text u-text-7">0718 240 260<br>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
 
 
-						</div>
-					</div>
-				</div>
-			</section>
+    <script>	
+    	function showOrderModal(url)
+    	{
+    		// SHOWING AJAX PRELOADER IMAGE
+    		//jQuery('#modal_ajax .modal-body').html('<div style="text-align:center;margin-top:200px;"><img src="assets/images/preloader.gif" /></div>');
+    		
+    		// LOADING THE AJAX MODAL
+    		
+    		jQuery('#orderModal').modal('show', {backdrop: 'true'});
+    		
+    		// SHOW AJAX RESPONSE ON REQUEST SUCCESS
+    		$.ajax({
+    			url: url,
+    			success: function(response)
+    			{
+    				jQuery('#orderModal .modal-body').html(response);	
 
-			<header class="page_header header_white toggler_xs_right section_padding_20">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-sm-12 display_table">
-							<div class="header_left_logo display_table_cell">
-								<a href="index-2.html" class="logo top_logo">
-									<img src="<?php echo $this->lm->get_image_url('logo','logo');?>" alt="logo image">
-									<span class="logo_text">
-										<span class="big"><?php echo strtoupper($system_abbr); ?></span>
-										<span class="small-text">Recycling</span>
-									</span>
-								</a>
-							</div>
+    			}
+    		});
+    	}
+    </script>
+        <!-- modal start -->
+        <div class="modal fade" id="orderModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Order Services</h5>
+      </div>
+      <div class="modal-body">
+                <div class="modal-body" style="height:470px; overflow:auto;">
 
-							<div class="header_mainmenu display_table_cell text-center">
-								<!-- main nav start -->
-								<nav class="mainmenu_wrapper">
-									<ul class="mainmenu nav sf-menu">
-										<li class="active">
-											<a href="<?php echo base_url()?>">Home</a>
-										</li>
-										<li class="">
-											<a href="#">About</a>
-										</li>
-										<li class="#">
-											<a href="#">FAQs</a>
-										</li>
-									</ul>
-								</nav>
-								<!-- eof main nav -->
-								<!-- header toggler -->
-								<span class="toggle_menu">
-									<span></span>
-								</span>
-							</div>
+                <form method="post" action="http://digitalservices.co.ke/admin/make_order">
+        <div class="form-group">
+            <label for="name">Name1</label>
+            <input type="text" class="form-control" name="name">
+        </div>
+        <div class="form-group">
+            <label for="phoneNumber">Phone Number</label>
+            <input type="text" class="form-control" name="phoneNumber">
+        </div>
+        <div class="form-group">
+            <label for="service">Service</label>
+            <select class="form-control" name="service">
+            <option>KRA</option>
+            <option>NEMA</option>
+            <option>AGPO</option>
+            <option>NEMIS</option>
+            <option>NTSA</option>
+            <option>TSA</option>
+            <option>Invitation Cards</option>
+            <option>Other</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <textarea class="form-control" name="description" rows="3"></textarea>
+        </div>
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+      </form>
 
-							<div class="header_right_buttons display_table_cell text-right hidden-xs">
-								<!-- <div class="darklinks">
-									<a href="#" class="social-icon border-icon rounded-icon soc-facebook"></a>
-									<a href="#" class="social-icon border-icon rounded-icon soc-twitter"></a>
-									<a href="#" class="social-icon border-icon rounded-icon soc-google"></a>
-								</div> -->
-								<!-- <div class="col-md-3 col-sm-4 text-center text-sm-right">
-									<a href="#" class="theme_button color2 margin_0">Dispose</a>
-								</div>
+                </div>
 
-								<div class="col-md-3 col-sm-4 text-center">
-									<a href="#" class="theme_button color2 margin_0">Logout</a>
-								</div> -->
+            </div>
+        </div>
+    </div>
+    <!-- modal end -->
+                                            
+                                            
+    <script>
+    //responsible for all delete functions
+    	
+    	function confirm_modal(delete_url)
+    	{
+    		jQuery('#flexModal').modal('show', {backdrop: 'static'});
+    		document.getElementById('delete_link').setAttribute('href' , delete_url);
+    		
+             $(this).parents(".odd").animate({ backgroundColor: "#fbc7c7" }, "fast")
+    		.animate({ opacity: "hide" }, "slow");
+    	}
+        
+        //show paid modal
+        function showPaidModal(payment_url)
+        {
+            jQuery('#paymentModal').modal('show', {backdrop: 'static'});
+            document.getElementById('payment_link').setAttribute('href' , payment_url);
+            
+             $(this).parents(".odd").animate({ backgroundColor: "#fbc7c7" }, "fast")
+            .animate({ opacity: "hide" }, "slow");
+        }
+        
+        //show collect modal
+        function showCollectModal(collect_url)
+        {
+            jQuery('#collectModal').modal('show', {backdrop: 'static'});
+            document.getElementById('collect_link').setAttribute('href' , collect_url);
+            
+             $(this).parents(".odd").animate({ backgroundColor: "#fbc7c7" }, "fast")
+            .animate({ opacity: "hide" }, "slow");
+        }
+    	
+    </script>
+        
+        <!-- (Normal Modal)-->
+          <div class="modal fade primary" id="flexModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ultraModal-Label" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content" style="margin-top:100px;">
+                    
+                    <div class="modal-header" style=" background-color:#54be73;">
+                        <button type="button" style="color:#fff;" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" style="text-align:center; font-weight:bold; color:#fff;">Are you sure to delete this information ?</h4>
+                    </div>
+                    
+                    
+                    <div class="modal-footer" style="margin:0px; border-top:0px; text-align:center;">
+                        <a href="#" class="btn btn-danger" id="delete_link">DELETE</a>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- (Payment Modal)-->
+          <div class="modal fade primary" id="paymentModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ultraModal-Label" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content" style="margin-top:100px;">
+                    
+                    <div class="modal-header" style=" background-color:#54be73;">
+                        <button type="button" style="color:#fff;" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" style="text-align:center; font-weight:bold; color:#fff;">Mark as Paid? There is no reverse for this action!</h4>
+                    </div>
+                    
+                    
+                    <div class="modal-footer" style="margin:0px; border-top:0px; text-align:center;">
+                        <a href="#" class="btn btn-danger" id="payment_link">MARK PAID</a>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- (Collect Modal)-->
+          <div class="modal fade primary" id="collectModal" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ultraModal-Label" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content" style="margin-top:100px;">
+                    
+                    <div class="modal-header" style=" background-color:#54be73;">
+                        <button type="button" style="color:#fff;" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" style="text-align:center; font-weight:bold; color:#fff;">Are you sure you want to Mark as Collected?</h4>
+                    </div>
+                    
+                    
+                    <div class="modal-footer" style="margin:0px; border-top:0px; text-align:center;">
+                        <a href="#" class="btn btn-danger" id="collect_link">MARK COLLECTED</a>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-								<div class="col-md-3 col-sm-4 text-center">
-									<?php if ($this->session->userdata('logged_in') == FALSE){ ?>
-									<a href="<?php echo base_url()?>login" class="theme_button color2 margin_0">Dispose</a>
-								<?php }else{
 
-										$id		 =	$this->session->userdata('id');
-										$role       =	$this->db->get_where('login' , array('login_id'=>$id))->row()->role; 
-											if($role=="admin"){?>
-												<a href="<?php echo base_url()?>admin/dashboard" class="theme_button color2 margin_0">Dashboard</a>
-											<?php }else{ ?>
-												<a href="<?php echo base_url()?>client/disposes/new" class="theme_button color2 margin_0">Dispose</a>
-											<?php }?>
-								<?php }?>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</header>
+  <script src="components/assets/js/compressed.js"></script>
+  <script src="components/assets/js/main.js"></script>
+    <!-- <script src="components/assets//switcher.js"></script> -->
 
-			<section class="intro_section ds">
-				<img src="<?php echo base_url()?>components/assets/images/slide.png" alt="">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 text-center">
-							<div class="slide_description_wrapper">
-								<div class="slide_description">
-									<div class="intro-layer to_animate" data-animation="fadeInUp">
-										<h3 class="highlight text-uppercase text-stroke-white">
-											Welcome to
-										</h3>
-									</div>
-									<div class="intro-layer to_animate" data-animation="fadeInUp">
-										<h2 class="text-uppercase text-stroke-black">
-											<?php echo strtoupper($system_abbr); ?>
-										</h2>
-									</div>
-									<div class="intro-layer to_animate" data-animation="fadeInUp">
-										<p style="color: #fff;" class="text-stroke-white">We can solve your waste disposition needs quickly and professionally.<br> Save Your community, Save Your planet</p>
-										<?php
+<!-- dashboard libs -->
 
-										if ($this->session->userdata('logged_in') == FALSE){ ?>
-											
-										<a href="<?php echo base_url()?>register" class="theme_button color1">Register Now</a>
-									<?php } else {
-										$id		 =	$this->session->userdata('id');
-										$role       =	$this->db->get_where('login' , array('login_id'=>$id))->row()->role; 
-											if($role=="admin"){
-											?>
-											<a href="<?php echo base_url()?>admin/dashboard" class="theme_button color1">Go to Dashboard</a>
-										<?php }else{?>
-											<a href="<?php echo base_url()?>client/dashboard" class="theme_button color1">Go to Dashboard</a>
-									<?php } }?>
-									</div>
-								</div>
-								<!-- eof .slide_description -->
-							</div>
-							<!-- eof .slide_description_wrapper -->
-						</div>
-						<!-- eof .col-* -->
-					</div>
-					<!-- eof .row -->
-				</div>
-				<!-- eof .container -->
-			</section>
+    <!-- events calendar -->
+    <script src="components/assets/js/admin/moment.min.js"></script>
+    <script src="components/assets/js/admin/fullcalendar.min.js"></script>
+    <!-- range picker -->
+    <script src="components/assets/js/admin/daterangepicker.js"></script>
 
-			<section id="about" class="ls section_padding_top_100 section_padding_bottom_150">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2 text-center">
-							<h2 class="section_header">
-								Our Services
-							</h2>
-							<p class="small-text grey">What we offer</p>
-							<p class="bottommargin_30">
-					<?php echo strtoupper($system_abbr); ?> is a company serving individuals and businesses in Kenya with their computers and electronics upgrade needs, accepting computers and electronics waste in any conditions.
-				</p>
-							<!-- <img src="images/signature.png" alt="" /> -->
-						</div>
-					</div>
-					<div class="row topmargin_40 columns_margin_top_60">
-						<div class="col-md-4">
-							<div class="teaser with_border rounded text-center">
-								<div class="teaser_icon main_bg_color2 round size_small offset_icon">
-									<i class="fa fa-road"></i>
-								</div>
-								<h4 class="poppins hover-color2">
-									<a href="#">Transportation Exp</a>
-								</h4>
-								<p>
-						Guaranteed that all of your universal waste management is performed safely and responsibly.
-					</p>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="teaser with_border rounded text-center">
-								<div class="teaser_icon main_bg_color3 round size_small offset_icon">
-									<i class="fa fa-inbox"></i>
-								</div>
-								<h4 class="poppins hover-color3">
-									<a href="#">Data destruction exp</a>
-								</h4>
-								<p>
-						We offer business pickup services to safely recycle your electronics in a safe manner.
-					</p>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div class="teaser with_border rounded text-center">
-								<div class="teaser_icon main_bg_color round size_small offset_icon">
-									<i class="fa fa-refresh"></i>
-								</div>
-								<h4 class="poppins">
-									<a href="#">Asset Recovery exp</a>
-								</h4>
-								<p>
-						We work with non-profits, businesses, and other organizations to host community e-waste events.
-					</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+    <!-- charts -->
+    <script src="components/assets/js/admin/Chart.bundle.min.js"></script>
+    <!-- vector map -->
+    <script src="components/assets/js/admin/jquery-jvectormap-2.0.3.min.js"></script>
+    <script src="components/assets/js/admin/jquery-jvectormap-world-mill.js"></script>
+    <!-- small charts -->
+    <script src="components/assets/js/admin/jquery.sparkline.min.js"></script>
 
-			
-			<section class="cs main_color2 section_padding_top_30 section_padding_bottom_30">
-				<div class="container">
-
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2 text-center">
-							<h2 class="section_header">
-								Contact Us
-							</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4 col-sm-6">
-							<div class="media small-teaser teaser inline-block">
-								<div class="media-left media-middle">
-									<div class="teaser_icon light_bg_color big_bg highlight2 round size_xsmall">
-										<i class="fa fa-phone"></i>
-									</div>
-								</div>
-								<div class="media-body media-middle">
-									<span class="fontsize_20 medium black"><?php echo $system_phone ?></span>
-									<br>
-									<span class="small-text small-spacing lightgrey"><?php echo ucwords($system_address) ?></span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-6">
-							<div class="media small-teaser teaser inline-block">
-								<div class="media-left media-middle">
-									<div class="teaser_icon light_bg_color big_bg highlight2 round size_xsmall">
-										<i class="fa fa-google-plus"></i>
-									</div>
-								</div>
-								<div class="media-body media-middle">
-									<span class="fontsize_20 medium black">Corporate Mail</span>
-									<br>
-									<span class="small-text small-spacing lightgrey"><?php echo $system_email ?></span>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0">
-							<div class="media small-teaser teaser inline-block">
-								<div class="media-left media-middle">
-									<div class="teaser_icon light_bg_color big_bg highlight2 round size_xsmall">
-										<i class="fa fa-clock-o"></i>
-									</div>
-								</div>
-								<div class="media-body media-middle">
-									<span class="fontsize_20 medium black">Open Hours</span>
-									<br>
-									<span class="small-text small-spacing lightgrey">Weekdays 8.00-18.00, Sat: closed</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
-			
-
-			
-
-			<section class="ls page_copyright section_padding_15">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 text-center">
-							<p class="small-text small-spacing grey">&copy; Copyright <?php echo date("Y") ?> | <?php echo $system_name; ?> | All Rights Reserved</p>
-						</div>
-					</div>
-				</div>
-			</section>
-
-		</div>
-		<!-- eof #box_wrapper -->
-	</div>
-	<!-- eof #canvas -->
-
-	<?php include "includes_bottom.php"?>
+    <!-- dashboard init -->
+        <!-- This is data table -->
+    <script src="components/assets/js/admin/datatables/datatables.min.js"></script>
+    <!-- start - This is for export functionality only -->
+    <script src="components/assets/js/admin/datatables/dataTables.buttons.min.js"></script>
+    <script src="components/assets/js/admin/datatables/buttons.flash.min.js"></script>
+    <script src="components/assets/js/admin/datatables/jszip.min.js"></script>
+    <script src="components/assets/js/admin/datatables/pdfmake.min.js"></script>
+    <script src="components/assets/js/admin/datatables/vfs_fonts.js"></script>
+    <script src="components/assets/js/admin/datatables/buttons.html5.min.js"></script>
+    <script src="components/assets/js/admin/datatables/buttons.print.min.js"></script>
+    <!-- end - This is for export functionality only -->
+  <script src="http://digitalservices.co.ke/components/customs/register.js"></script>
 </body>
 
 </html>

@@ -12,7 +12,7 @@ $id		 =	$this->session->userdata('id');
 			<!-- Nav tabs -->
 			<ul class="nav nav-tabs" role="tablist">
 				<li class="active"><a href="#tab1" role="tab" data-toggle="tab"><i class="fa fa-bars"></i> Manage Profile</a></li>
-				<li><a href="#tab2" role="tab" data-toggle="tab"><i class="fa fa-unlock-alt"></i> Change Password</a></li>
+				<!-- <li><a href="#tab2" role="tab" data-toggle="tab"><i class="fa fa-unlock-alt"></i> Change Password</a></li> -->
 			</ul>
 
 			<!-- Tab panes -->
@@ -134,68 +134,6 @@ $id		 =	$this->session->userdata('id');
 
 	<!-- </div> -->
 
-	<!-- <div class="col-md-8"> -->
-		<div class="col-md-5">
-
-			<!-- <h4>Tabs</h4> -->
-
-			<!-- Nav tabs -->
-			<ul class="nav nav-tabs" role="tablist">
-				<li class="active"><a href="#upload" role="tab" data-toggle="tab"><i class="fa fa-film"></i> Upload Photo</a></li>
-			</ul>
-
-			<!-- Tab panes -->
-			<div class="tab-content tab-custom top-color-border">
-				<div class="tab-pane fade in active" id="upload">
-					<?php if($this->session->flashdata('flash_message')){ ?>
-						 <div class="alert alert-success alert-dismissible" role="alert">
-						 	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-						 		<span aria-hidden="true">&times;</span></button>
-						 		<?php echo $this->session->flashdata('flash_message'); ?>
-						 	</div>
-				    <?php } ?>
-				    <div class="media big-left-media">
-						<div class="media-left">
-							<img src="<?php echo $this->qm->get_image_url('user',$id);?>" alt="...">
-						</div>
-						<div class="media-body">
-							<h4>Chose new image
-							</h4>
-							<p>
-								 <?php $at = array("name" => "form","encytype"=>"multipart/form-data","class"=>"form-inline");
-                         echo form_open_multipart(base_url() .'admin/update_image', $at);?>
-                            <div class="form-group">
-
-                                <?php
-                                $dat=array(
-								'type'=>'file',
-								'name'=> 'userfile',
-								'accept'=>'image/*',
-								'id'=>'userfile',
-								'required'=>'required'
-								
-								);
-									echo form_input($dat);
-								?>
-								<p class="help-block"><i class="fa fa-warning"></i> Formats (jpg, png, gif, JPG, PNG, GIF)</p>
-							  <?php
-								$dat=array(
-									'type'=>'submit',
-									'value'=>'upload',
-									'class'=>'theme_button inverse',
-									'id'=>'submit'
-								);
-									echo form_input($dat);
-								?>
-                            </div>
-                        <?php echo form_close()?>
-							</p>
-						</div>
-					</div>
-			</div>
-
-		</div>
-		<!-- .with_border -->
 
 	</div>
 	<!-- .col-* -->

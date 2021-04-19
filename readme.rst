@@ -48,7 +48,7 @@ Installing the Electronic waste System
 One is required to follow the instruction/or procedures as shown in the installation above for Xampp Server. The installation of the above enables the system to have PHP and MySQL installed in the directory; C:\Xampp directory and all other program files.
 
 #######################
-Running the E-Waste System
+Running the e-waste System
 #######################
 
 i)	Create a local folder named "**e-waste**" in htdocs directory found in Xampp Server. 	This is the default publishing folder i.e. C:\Xampp\htdocs for all systems installed using Xampp Server 3.2.2.

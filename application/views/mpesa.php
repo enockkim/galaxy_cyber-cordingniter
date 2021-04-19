@@ -48,7 +48,7 @@ curl_setopt_array($curl, array(
     "PhoneNumber": "254725542046",
     "CallBackURL": "https://db9c5a77cbfe.ngrok.io",
     "AccountReference": "F5S6F7",
-    "TransactionDesc": "E-Waste"
+    "TransactionDesc": "e-waste"
 }',
   CURLOPT_HTTPHEADER => array(
     'Authorization: Bearer '.$access_token,

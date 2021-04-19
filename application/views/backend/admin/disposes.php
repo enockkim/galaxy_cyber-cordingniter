@@ -17,7 +17,7 @@
 			<div class="tab-pane fade in active" id="tab1">
 				<div class="row">
 					<div class="col-xs-12 col-md-12">
-						<h4>All E-waste Disposes</h4>
+						<h4>All e-waste Disposes</h4>
 						<?php if($this->session->flashdata('pay_message')){ ?>
 							 <div class="alert alert-success alert-dismissible" role="alert">
 							 	<button type="button" class="close" data-dismiss="alert" aria-label="Close">

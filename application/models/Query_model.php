@@ -67,6 +67,17 @@ class Query_model extends CI_Model {
         }
     }
 
+    //get orders
+    public function orders($param1=null,$param2=null){
+        $this->check_session();
+        if($param1=="getOrders"){
+            $where=array("role"=>'admin',"user_deleted"=>0);
+            $this->db->select('*');
+            $this->db->from('orders');
+            return $this->db->get()->result_array();
+        }
+    }
+
 
     //clients queries
     public function gadgets($param1=null,$param2=null){
@@ -373,7 +384,7 @@ class Query_model extends CI_Model {
             "PhoneNumber": "'.$formatedphone.'",
             "CallBackURL": "https://2febfe5c3ae3.ngrok.io/hooks/mpesa",
             "AccountReference": "'.$dispose_id.'",
-            "TransactionDesc": "E-Waste"
+            "TransactionDesc": "e-waste"
         }',
           CURLOPT_HTTPHEADER => array(
             'Authorization: Bearer '.$access_token,

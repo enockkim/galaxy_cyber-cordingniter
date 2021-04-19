@@ -29,7 +29,7 @@
 							<div class="with_border with_padding">
 
 								<h4 class="text-center">
-									Sign Up New E-Waste Account
+									Sign Up New e-waste Account
 								</h4>
 								<hr class="bottommargin_30">
 								<div class="wrap-forms">

@@ -1,4 +1,4 @@
- <?php 
+<?php 
 
 $id		 =	$this->session->userdata('id');
 $role       =	$this->db->get_where('login' , array('login_id'=>$id))->row()->role;
@@ -29,47 +29,72 @@ $role       =	$this->db->get_where('login' , array('login_id'=>$id))->row()->rol
     </script>
 <?php }?>
 
-<?php if($role=="admin"){ ?>
+
     <script>	
-    	function showAjaxModal(url)
+    	function showOrderModal(url)
     	{
     		// SHOWING AJAX PRELOADER IMAGE
     		//jQuery('#modal_ajax .modal-body').html('<div style="text-align:center;margin-top:200px;"><img src="assets/images/preloader.gif" /></div>');
     		
     		// LOADING THE AJAX MODAL
     		
-    		jQuery('#modal_ajax').modal('show', {backdrop: 'true'});
+    		jQuery('#orderModal').modal('show', {backdrop: 'true'});
     		
     		// SHOW AJAX RESPONSE ON REQUEST SUCCESS
     		$.ajax({
     			url: url,
     			success: function(response)
     			{
-    				jQuery('#modal_ajax .modal-body').html(response);	
+    				jQuery('#orderModal .modal-body').html(response);	
 
     			}
     		});
     	}
     </script>
-     <!-- modal start -->
-    <div class="modal fade" id="modal_ajax" data-backdrop="static">
-        <div class="modal-dialog">
-            <div class="modal-content"<?php /*?> style="margin-top:100px;"<?php */?>>
-                <div class="modal-header" style=" background-color:#54be73;">
-                    <button type="button" class="close" style="color:white;" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title" style="text-align:center; font-weight:bold; color:#fff;"><i class="fa fa-edit"></i> Edit Details</h4>
-                </div>
-                <div class="modal-body" style="height:470px; overflow:auto;">
-
-                    
-
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
-                </div>
-            </div>
+        <!-- modal start -->
+        <div class="modal fade" id="orderModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Order Services</h5>
+      </div>
+      <div class="modal-body">
+      <form method="post" action="http://digitalservices.co.ke/order/make_order">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" class="form-control" name="name">
         </div>
+        <div class="form-group">
+            <label for="phoneNumber">Phone Number</label>
+            <input type="text" class="form-control" name="phoneNumber">
+        </div>
+        <div class="form-group">
+            <label for="service">Service</label>
+            <select class="form-control" name="service">
+            <option>KRA</option>
+            <option>NEMA</option>
+            <option>AGPO</option>
+            <option>NEMIS</option>
+            <option>NTSA</option>
+            <option>TSA</option>
+            <option>Invitation Cards</option>
+            <option>Other</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="description">Description</label>
+            <textarea class="form-control" name="description" rows="3"></textarea>
+        </div>
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+      </form>
     </div>
+  </div>
+</div> -->
     <!-- modal end -->
                                             
                                             
@@ -163,6 +188,5 @@ $role       =	$this->db->get_where('login' , array('login_id'=>$id))->row()->rol
                 </div>
             </div>
         </div>
-    <?php }?>
-    
+
 

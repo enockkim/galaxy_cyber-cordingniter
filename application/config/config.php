@@ -24,7 +24,7 @@ date_default_timezone_set('Africa/Nairobi');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/e-waste/';
+$config['base_url'] = 'http://localhost/galaxy/';
  // $config['base_url'] = 'http://192.168.22.11/e-waste/';
 
 /*
@@ -38,6 +38,8 @@ $config['base_url'] = 'http://localhost/e-waste/';
 |
 */
 $config['index_page'] = '';
+
+$config['homepage'] = '';
 
 /*
 |--------------------------------------------------------------------------

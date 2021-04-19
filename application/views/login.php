@@ -1,40 +1,26 @@
-<?php
-// $system_name      =	$this->db->get_where('settings' , array('system_id'=>'1'))->row()->system_name;
-// $system_abbr     =	$this->db->get_where('settings' , array('system_id'=>'1'))->row()->system_abbr;
-?>
- <!DOCTYPE html>
-<html class="no-js" lang="eng">
-
-<head>
-    <?php include "includes_top.php"?>
-    <title>Login</title>
-</head>
-
-<body class="admin">
-    <!--[if lt IE 9]>
-        <div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
-    <![endif]-->
-
-    <div class="preloader">
-        <div class="preloader_image"></div>
-    </div>
-
-    <!-- wrappers for visual page editor and boxed version of template -->
-    <div id="canvas">
-        <div id="box_wrapper">
-
-            <!-- template sections -->
-            <section class="ls section_padding_top_100 section_padding_bottom_100 section_full_height">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 to_animate">
-                            <div class="with_border with_padding">
-
-                                <h4 class="text-center">
-                                    E-Waste Login
-                                </h4>
-                                <hr class="bottommargin_30">
-                                <div class="wrap-forms">
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Page Title - SB Admin</title>
+        <?php echo link_tag('components/assets/css/styles.css')?>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js" crossorigin="anonymous"></script>
+    </head>
+    <body class="bg-primary">
+        <div id="layoutAuthentication">
+            <div id="layoutAuthentication_content">
+                <main>
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-5">
+                                <div class="card shadow-lg border-0 rounded-lg mt-5">
+                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">Login</h3></div>
+                                    <div class="card-body">
+                                    <div class="wrap-forms">
                                     <div id="message"></div>
                                     <?php if($this->session->keep_flashdata('message')){ ?>
                                          <div class="alert alert-info alert-dismissible" role="alert">
@@ -77,31 +63,35 @@
                                         <button type="submit" class="theme_button block_button color1">Log In</button>
                                     </form>
                                 </div>
+                                    <div class="card-footer text-center">
+                                        <div class="small"><a href="register.html">Need an account? Sign up!</a></div>
+                                    </div>
+                                </div>
                             </div>
-                            <!-- .with_border -->
-
-                            <p class="divider_20 text-center">
-                    Not registered? <a href="<?php echo base_url()?>register">Create an account</a>.<br>
-                    or go <a href="<?php echo base_url()?>">Home</a>
-                </p>
-
                         </div>
-                        <!-- .col-* -->
                     </div>
-                    <!-- .row -->
-                </div>
-                <!-- .container -->
-            </section>
+                </main>
+            </div>
+            <div id="layoutAuthentication_footer">
+                <footer class="py-4 bg-light mt-auto">
+                    <div class="container-fluid">
+                        <div class="d-flex align-items-center justify-content-between small">
+                            <div class="text-muted">Copyright &copy; Your Website 2020</div>
+                            <div>
+                                <a href="#">Privacy Policy</a>
+                                &middot;
+                                <a href="#">Terms &amp; Conditions</a>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
         </div>
-        <!-- eof #box_wrapper -->
-    </div>
-    <!-- eof #canvas -->
-
-
-    <?php include "includes_bottom.php"?>
-
-</body>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="<?php echo base_url(); ?>components/assets/js/scripts.js"></script>
+        <script src="<?php echo base_url(); ?>components/customs/login.js"></script>
+        <script src="<?php echo base_url(); ?>components/assets/js/compressed.js"></script>
+  <script src="<?php echo base_url(); ?>components/assets/js/main.js"></script>
+    </body>
 </html>
-
-
-

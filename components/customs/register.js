@@ -2,7 +2,7 @@
 var check_reload = $("#reload").val();
 
 $(document).ready(function(){
-	$("#regform").unbind('submit').bind('submit', function() {
+	$("#orderform").unbind('submit').bind('submit', function() {
 		
 		var form = $(this);
 			var url = form.attr('action');
@@ -22,7 +22,7 @@ $(document).ready(function(){
 
 
 						//reset inputs
-						document.getElementById("regform").reset();
+						document.getElementById("orderform").reset();
 						$(".form-group").removeClass('has-error').removeClass('has-success');
 						$(".help-block").remove();
 						

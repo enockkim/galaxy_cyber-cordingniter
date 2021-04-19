@@ -2,7 +2,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col-sm-6">
-              <p class="grey">Copyrights &copy; <?php echo date("Y") ?> | E-waste System | All Rights Reserved</p>
+              <p class="grey">Copyrights &copy; <?php echo date("Y") ?> | e-waste System | All Rights Reserved</p>
             </div>
             <div class="col-sm-6 text-sm-right">
               <p class="grey">Project by <i class="fa fa-user"></i> Johnson Matoke</p>

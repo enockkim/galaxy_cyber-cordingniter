@@ -1,30 +1,34 @@
-<?php if (
+<!-- <?php if (
     $page_name=='homepage'
 ){?>
-  <script src="<?php echo base_url(); ?>components/assets/js/compressed.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script class="u-script" type="text/javascript" src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/jquery-1.9.1.min.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script> -->
   <script src="<?php echo base_url(); ?>components/assets/js/main.js"></script>
-    <!-- <script src="<?php echo base_url(); ?>components/assets//switcher.js"></script> -->
+  <script class="u-script" type="text/javascript" src="http://lifewaychristianacademy.sc.ke/galaxy_cyber1/nicepage.js" defer=""></script>
+  <meta name="generator" content="Nicepage 3.9.3, nicepage.com">
+          <script src = "https://code.jquery.com/jquery-3.5.1.js"></script> 
+        <script src = "https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script> 
+        <script src = "https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script> 
+        <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html"
+}</script>
 <?php }else{?>
+    <script>    
+            $(document).ready(function() {
+            $('#example').DataTable();
+            } );
+        </script>
 
   <script src="<?php echo base_url(); ?>components/assets/js/compressed.js"></script>
   <script src="<?php echo base_url(); ?>components/assets/js/main.js"></script>
     <!-- <script src="<?php echo base_url(); ?>components/assets//switcher.js"></script> -->
 
 <!-- dashboard libs -->
-
-    <!-- events calendar -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/moment.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/fullcalendar.min.js"></script>
-    <!-- range picker -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/daterangepicker.js"></script>
-
-    <!-- charts -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/Chart.bundle.min.js"></script>
-    <!-- vector map -->
-    <script src="<?php //echo base_url(); ?>components/assets/js/admin/jquery-jvectormap-2.0.3.min.js"></script>
-    <script src="<?php //echo base_url(); ?>components/assets/js/admin/jquery-jvectormap-world-mill.js"></script>
-    <!-- small charts -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/jquery.sparkline.min.js"></script>
 
     <!-- dashboard init -->
     <?php if (
@@ -35,15 +39,7 @@
         $page_name=='disposes'
     ){?>
     <!-- This is data table -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/datatables.min.js"></script>
-    <!-- start - This is for export functionality only -->
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/dataTables.buttons.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/buttons.flash.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/jszip.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/pdfmake.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/vfs_fonts.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/buttons.html5.min.js"></script>
-    <script src="<?php echo base_url(); ?>components/assets/js/admin/datatables/buttons.print.min.js"></script>
+  
     <!-- end - This is for export functionality only -->
         <?php include "tables.php"?>
     <?php }?>
@@ -51,12 +47,13 @@
 
         <?php if ($page_name=='dashboard'){?>
             <?php include "calendar.php"; ?>
+            
         <?php }?>
 
         <?php if ($page_name=='login'){?>
             <script src="<?php echo base_url(); ?>components/customs/login.js"></script>
         <?php }?>
-        <?php if ($page_name=='register'or$page_name=='clients'){?>
+        <?php if ($page_name=='homepage'or$page_name=='clients'){?>
             <script src="<?php echo base_url(); ?>components/customs/register.js"></script>
         <?php }?>
         <?php if ($page_name=='profile'){?>
@@ -85,4 +82,4 @@
         <?php }else{?>
         
         
-    	<?php }?> 
+    	<?php }?>  

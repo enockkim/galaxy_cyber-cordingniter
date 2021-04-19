@@ -120,7 +120,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`setting_id`, `system_name`, `system_abbr`, `system_address`, `system_email`, `system_phone`, `link_facebook`, `link_twitter`) VALUES
-(1, 'Electronic Waste System', 'E-WASTE', '123 Nairobi', 'e-waste@gmail.com', '+254 712345678', 'https://facebook.com/e-waste', 'https://twitter.com/e-waste');
+(1, 'Electronic Waste System', 'e-waste', '123 Nairobi', 'e-waste@gmail.com', '+254 712345678', 'https://facebook.com/e-waste', 'https://twitter.com/e-waste');
 
 -- --------------------------------------------------------
 
